@@ -1,0 +1,16 @@
+.card{
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsl(0, 0%, 80%);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+  background-color: #f9f9f9;
+}
+
+img {
+  width: 100%;
+  border-radius: 50%;
+}

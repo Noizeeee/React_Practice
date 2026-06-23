@@ -1,4 +1,6 @@
 import profilepic from "./assets/Komi.jpg";
+import PropTypes from "prop-types";
+import './Card.css';
 
 function Card(props){
     return(

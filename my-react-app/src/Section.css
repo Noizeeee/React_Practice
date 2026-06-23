@@ -1,0 +1,18 @@
+.section{
+    min-height: 100dvh;
+    background-color: #f30000;
+    text-align: center;;
+}
+.section2{
+    min-height: 100dvh;
+    background-color: #ffffff;
+}
+.section3{
+    min-height: 100dvh;
+    background-color: #00f304;
+}
+.section4{
+    min-height: 100dvh;
+    background-color: #c800ff;
+}
+
