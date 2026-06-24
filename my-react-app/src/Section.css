@@ -1,7 +1,6 @@
 .section{
     min-height: 100dvh;
     background-color: #f30000;
-    text-align: center;;
 }
 .section2{
     min-height: 100dvh;
@@ -10,6 +9,7 @@
 .section3{
     min-height: 100dvh;
     background-color: #00f304;
+    text-align: center;
 }
 .section4{
     min-height: 100dvh;
