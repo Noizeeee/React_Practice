@@ -11,9 +11,9 @@ function Login() {
           <form className = "forms">
           <h1>Login</h1>
           <p>Username:</p>
-          <input type="text" placeholder="Username" />
+          <input type="text" placeholder="Username" required/>
           <p>Password:</p>
-          <input type="password" placeholder="Password" />
+          <input type="password" placeholder="Password" required/>
 
           <button type="submit">Login</button>
         </form>

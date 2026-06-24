@@ -64,10 +64,14 @@ body {
 .LoginBox button {
   padding: 10px;
   border: none;
-  background: black;
+  background: rgb(0, 151, 154);
   color: white;
   cursor: pointer;
   border-radius: 0.8rem;
+}
+
+.LoginBox button:hover{
+    background: rgb(0, 72, 74);
 }
 
 /* RIGHT SIDE */
